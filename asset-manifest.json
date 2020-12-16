@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hapy_birthday_anthea/static/css/main.b4900821.chunk.css",
+    "main.js": "/hapy_birthday_anthea/static/js/main.327ee24f.chunk.js",
+    "main.js.map": "/hapy_birthday_anthea/static/js/main.327ee24f.chunk.js.map",
+    "runtime-main.js": "/hapy_birthday_anthea/static/js/runtime-main.d4b3024b.js",
+    "runtime-main.js.map": "/hapy_birthday_anthea/static/js/runtime-main.d4b3024b.js.map",
+    "static/js/2.58a7ccfc.chunk.js": "/hapy_birthday_anthea/static/js/2.58a7ccfc.chunk.js",
+    "static/js/2.58a7ccfc.chunk.js.map": "/hapy_birthday_anthea/static/js/2.58a7ccfc.chunk.js.map",
+    "static/js/3.b24e4ef0.chunk.js": "/hapy_birthday_anthea/static/js/3.b24e4ef0.chunk.js",
+    "static/js/3.b24e4ef0.chunk.js.map": "/hapy_birthday_anthea/static/js/3.b24e4ef0.chunk.js.map",
+    "index.html": "/hapy_birthday_anthea/index.html",
+    "static/css/main.b4900821.chunk.css.map": "/hapy_birthday_anthea/static/css/main.b4900821.chunk.css.map",
+    "static/js/2.58a7ccfc.chunk.js.LICENSE.txt": "/hapy_birthday_anthea/static/js/2.58a7ccfc.chunk.js.LICENSE.txt",
+    "static/media/salmon_teriyaki.c41989f4.jpg": "/hapy_birthday_anthea/static/media/salmon_teriyaki.c41989f4.jpg",
+    "static/media/stalking_anthea_fb_photo.4b525849.jpg": "/hapy_birthday_anthea/static/media/stalking_anthea_fb_photo.4b525849.jpg",
+    "static/media/trader_joes.3334e7ef.jpg": "/hapy_birthday_anthea/static/media/trader_joes.3334e7ef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4b3024b.js",
+    "static/js/2.58a7ccfc.chunk.js",
+    "static/css/main.b4900821.chunk.css",
+    "static/js/main.327ee24f.chunk.js"
+  ]
+}
